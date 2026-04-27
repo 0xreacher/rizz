@@ -19,7 +19,7 @@ RIZZ is a **unified Burp extension** that combines 3 powerful security analysis 
 
 ## Why RIZZ?
 
-Because this tool has **RIZZ** — it finds API vulnerabilities with style:
+Because this tool has **RIZZ** - it finds API vulnerabilities with style:
 -  Finds what others miss
 -  No cap (seriously finds real bugs)
 -  Fast, sleek, Gen Z approved
@@ -182,7 +182,7 @@ Auto-detects:
 
 ## The Philosophy
 
-RIZZ isn't just a tool — it's a **workflow optimization**:
+RIZZ isn't just a tool - it's a **workflow optimization**:
 - One tab instead of three
 - No context switching
 - Zero friction from idea to finding
