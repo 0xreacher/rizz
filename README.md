@@ -1,4 +1,4 @@
-# RIZZ 🔥
+# RIZZ 
 ## API Security Testing Suite for Burp
 
 > Your API vuln scanner has **RIZZ** (charisma to find every weakness)
